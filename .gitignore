@@ -1,0 +1,4 @@
+venv
+yolov8.pt
+__pycache__/
+mouse_prototype_video.mp4
